@@ -1,0 +1,17 @@
+{
+  "Flex": 66,
+  "Image": 20,
+  "Div": 38,
+  "Menu": 1,
+  "TextBox": 38,
+  "Button": 5,
+  "Dropdown": 1,
+  "Link": 2,
+  "Carousel": 1,
+  "Modal": 1,
+  "Cascader": 1,
+  "Icon": 1,
+  "Testimonial": 1,
+  "UnorderedList": 1,
+  "Accordion": 4
+}
